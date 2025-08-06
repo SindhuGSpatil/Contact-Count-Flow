@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Account.Description</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Contact_Count_Flow</members>
         <name>Flow</name>
     </types>
